@@ -1,4 +1,5 @@
 # This is a python program.
+# edited by JH
 
 def square(x):
   return x ** 2
